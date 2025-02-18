@@ -1,0 +1,28 @@
+{
+  "name": "TimeBased",
+  "address": "0x04baedd4dda879468fad73a9b56cde83a9f8cf55",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "count",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "counter",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "filePath": "Bootcamp/TimeBased.sol",
+  "pinnedAt": 1739882776078
+}
