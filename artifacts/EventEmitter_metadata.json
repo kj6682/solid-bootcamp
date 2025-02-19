@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "address",
+						"name": "msgSender",
+						"type": "address"
+					}
+				],
+				"name": "WantsToCount",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "emitCountLog",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"EventEmitter.sol": "EventEmitter"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"EventEmitter.sol": {
+			"keccak256": "0x6d199e40150e8e9eee216fce53a167137a417fad981a964a7bd88c3f194742a5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://288bbf37ff9e29507a4a4c08c717458a1928bc2968dd550ab30bd0a2c946a247",
+				"dweb:/ipfs/QmP45FgexjrrEvLcZbQkWuK9tWvLMXHEba6XfAKJmAKtf1"
+			]
+		}
+	},
+	"version": 1
+}
