@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "OnlySimulatedBackend",
+				"type": "error"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CustomLogic_flattened.sol": "AutomationBase"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CustomLogic_flattened.sol": {
+			"keccak256": "0x2ea5e39b10baa8d4ccd2096a85d7c1c441fb364981753670262338d981dbad45",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c7866d710f7324898f36fd0be65547fe156862f855aa68118c63b073fc1f9846",
+				"dweb:/ipfs/QmQtxFRZ6Tth3PnVFTFGDYJLs3VrYW8MwiYkHY8UZEU6GW"
+			]
+		}
+	},
+	"version": 1
+}
